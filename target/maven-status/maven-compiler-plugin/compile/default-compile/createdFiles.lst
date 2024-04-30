@@ -1,0 +1,13 @@
+soda/bean/HasQuarterState.class
+soda/UserApplication.class
+soda/WebConfig.class
+soda/service/DataStorage.class
+soda/service/SodaMachineUI.class
+soda/bean/SodaMachineContext.class
+soda/service/MicrocontrollerService.class
+soda/bean/State.class
+soda/bean/SoldState.class
+soda/bean/NoQuarterState.class
+soda/service/Main.class
+soda/SecurityConfig.class
+soda/bean/SoldOutState.class
